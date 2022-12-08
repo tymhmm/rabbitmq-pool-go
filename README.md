@@ -1,2 +1,2 @@
 # rabbitmq-pool-go
-golang rabbitmq Connection pool and channel multiplexing
+[请移步中文仓库](https://gitee.com/tym_hmm/rabbitmq-pool-go) 
